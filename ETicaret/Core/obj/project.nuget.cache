@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OuoRg5q8qcsMKBLG2kZx1m6Ee6KqnARcmufN5Zd05Q2ypD5zcftBPYuwoaZb3JKJIIXJTiHBGF3LEx1cYTOh3Q==",
+  "success": true,
+  "projectFilePath": "D:\\Yazılım\\ASP\\E-TİCARET\\ETicaret\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
